@@ -1,0 +1,3 @@
+Method,Trainable Parameters,Training Time (seconds),Validation Accuracy (%)
+Frozen Feature Extractor,1026,107.71,97.22
+Fine-Tuned Network,8394754,129.29,100.0
